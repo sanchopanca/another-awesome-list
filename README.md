@@ -38,3 +38,8 @@ This is an attempt to organize my github stars and other bookmarks
 - [Rancher](http://rancher.com/), Apache License v2.0, [github](https://github.com/rancher/rancher)
 - [Zulip](https://www.zulip.org/), Apache License v2.0, [github](https://github.com/zulip/zulip)
 - [koel](http://koel.phanan.net/), The MIT License, [github](https://github.com/phanan/koel)
+
+## 3D Graphics Software
+- [Wings 3D](http://www.wings3d.com/), BSD Licence, [github](https://github.com/dgud/wings)
+- [Blender](https://www.blender.org/), GNU GPL v2 or later, [git repository](https://git.blender.org/gitweb/gitweb.cgi/blender.git)
+- [MakeHuman](http://www.makehuman.org/), GNU AGPL v3 or later, [bitbucket](https://bitbucket.org/MakeHuman/makehuman/)
