@@ -12,6 +12,7 @@ This is an attempt to organize my github stars and other bookmarks
 - [Godot](http://www.godotengine.org/projects/godot-engine), The MIT License, [github](https://github.com/godotengine/godot) ([C++][cpp])
 - [Panda3D](https://www.panda3d.org/), The Modified BSD License, [github](https://github.com/panda3d/panda3d) ([C++][cpp], [Python][python])
 - [Phaser](http://phaser.io/), The MIT License, [github](https://github.com/photonstorm/phaser) (JavaScript)
+- [SDL](http://libsdl.org/), zlib License, [mercurial repository](http://hg.libsdl.org/SDL) (C)
 - [SFML](http://www.sfml-dev.org/), zlib License, [github](https://github.com/SFML/SFML) ([C++][cpp])
 - [Urho3D](http://urho3d.github.io/), The MIT License, [github](https://github.com/urho3d/Urho3D) ([C++][cpp])
 
