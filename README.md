@@ -52,11 +52,16 @@ This is an attempt to organize my github stars and other bookmarks
 - [Blade](http://bladejava.com/), Apache License v2.0, [github](https://github.com/biezhi/blade) ([Java][java])
 - [Vibe.d](http://vibed.org/), The MIT License, [github](https://github.com/rejectedsoftware/vibe.d) ([D][d])
 
+## Web Servers
+- [Caddy](https://caddyserver.com/), Apache License v2.0, [github](https://github.com/mholt/caddy) ([Go][go])
+- [Nginx](http://nginx.org/), BSD License, [mercurial repository](http://hg.nginx.org/nginx) (C)
+
 [bash]: https://www.gnu.org/software/bash/
 [coffee]: http://coffeescript.org/
 [cpp]: https://isocpp.org/
 [d]: http://dlang.org/
 [erlang]: http://www.erlang.org/
+[go]: https://golang.org/
 [java]: http://java.net/
 [php]: http://php.net/
 [python]: https://www.python.org/
