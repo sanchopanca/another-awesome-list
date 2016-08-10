@@ -5,7 +5,7 @@ This is an attempt to organize my github stars and other bookmarks
 
 ## OS
 - [Haiku](https://www.haiku-os.org/), The MIT License, [github](https://github.com/haiku/haiku) ([C++][cpp])
-- [Harvey OS](https://harvey-os.org/), GNU GPL v2, Lucent Public License Version 1.02, [github](https://github.com/Harvey-OS/harvey) ([C])
+- [Harvey OS](https://harvey-os.org/), GNU GPL v2, Lucent Public License Version 1.02, [github](https://github.com/Harvey-OS/harvey) (C)
 - [Redox](http://www.redox-os.org/), The MIT License, [github](https://github.com/redox-os/redox) ([Rust][rust])
 
 ## Game Engines and libraries
