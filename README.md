@@ -60,6 +60,7 @@ This is an attempt to organize my github stars and other bookmarks
 ## Education
 - BinaryTree: Python Library for Learning Binary Trees, [github](https://github.com/joowani/binarytree)
 - Google Interview University, [github](https://github.com/jwasham/google-interview-university)
+- You Don't Know JS (book series) [github](https://github.com/getify/You-Dont-Know-JS)
 
 [bash]: https://www.gnu.org/software/bash/
 [coffee]: http://coffeescript.org/
