@@ -9,6 +9,7 @@ This is an attempt to organize my github stars and other bookmarks
 - [Redox](http://www.redox-os.org/), The MIT License, [github](https://github.com/redox-os/redox) ([Rust][rust])
 
 ## Game Engines and libraries
+- [armory](http://armory3d.org/), Mozilla Public License Version 2.0, [github](https://github.com/armory3d/armory) ([Python][python], [Haxe][haxe])
 - [Dash](http://dash.circularstudios.com/), The MIT License, [github](https://github.com/Circular-Studios/Dash) ([D][d])
 - [Godot](http://www.godotengine.org/projects/godot-engine), The MIT License, [github](https://github.com/godotengine/godot) ([C++][cpp])
 - [Panda3D](https://www.panda3d.org/), The Modified BSD License, [github](https://github.com/panda3d/panda3d) ([C++][cpp], [Python][python])
@@ -60,7 +61,7 @@ This is an attempt to organize my github stars and other bookmarks
 ## Education
 - BinaryTree: Python Library for Learning Binary Trees, [github](https://github.com/joowani/binarytree)
 - Google Interview University, [github](https://github.com/jwasham/google-interview-university)
-- You Don't Know JS (book series) [github](https://github.com/getify/You-Dont-Know-JS)
+- You Don't Know JS (book series), [github](https://github.com/getify/You-Dont-Know-JS)
 
 [bash]: https://www.gnu.org/software/bash/
 [coffee]: http://coffeescript.org/
@@ -68,6 +69,7 @@ This is an attempt to organize my github stars and other bookmarks
 [d]: http://dlang.org/
 [erlang]: http://www.erlang.org/
 [go]: https://golang.org/
+[haxe]: https://haxe.org/
 [java]: http://java.net/
 [php]: http://php.net/
 [python]: https://www.python.org/
