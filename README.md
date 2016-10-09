@@ -57,6 +57,10 @@ This is an attempt to organize my github stars and other bookmarks
 - [Caddy](https://caddyserver.com/), Apache License v2.0, [github](https://github.com/mholt/caddy) ([Go][go])
 - [Nginx](http://nginx.org/), BSD License, [mercurial repository](http://hg.nginx.org/nginx) (C)
 
+## Education
+- BinaryTree: Python Library for Learning Binary Trees, [github](https://github.com/joowani/binarytree)
+- Google Interview University, [github](https://github.com/jwasham/google-interview-university)
+
 [bash]: https://www.gnu.org/software/bash/
 [coffee]: http://coffeescript.org/
 [cpp]: https://isocpp.org/
