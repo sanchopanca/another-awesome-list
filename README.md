@@ -20,7 +20,7 @@ This is an attempt to organize my github stars and other bookmarks
 
 ## Databases
 - [ArangoDB](https://www.arangodb.com/), Apache License v2.0, [github](https://github.com/arangodb/arangodb) ([C++][cpp])
-- [RethinkDB](https://www.rethinkdb.com/), GNU AGPL v3, [github](https://github.com/rethinkdb/rethinkdb) ([C++][cpp])
+- [RethinkDB](https://www.rethinkdb.com/), Apache License v2.0, [github](https://github.com/rethinkdb/rethinkdb) ([C++][cpp])
 
 ## IDE and text editors
 - [Atom](https://atom.io/), The MIT License, [github](https://github.com/atom/atom) ([CoffeeScript][coffee])
