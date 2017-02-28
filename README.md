@@ -20,6 +20,7 @@ This is an attempt to organize my github stars and other bookmarks
 
 ## Databases
 - [ArangoDB](https://www.arangodb.com/), Apache License v2.0, [github](https://github.com/arangodb/arangodb) ([C++][cpp])
+- [CockroachDB Community Edition](https://www.cockroachlabs.com/), Apache License v2.0, [github](https://github.com/cockroachdb/cockroach) ([Go][go])
 - [RethinkDB](https://www.rethinkdb.com/), Apache License v2.0, [github](https://github.com/rethinkdb/rethinkdb) ([C++][cpp])
 
 ## IDE and text editors
