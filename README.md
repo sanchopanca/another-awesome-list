@@ -10,6 +10,7 @@ This is an attempt to organize my github stars and other bookmarks
 
 ## Game Engines and libraries
 - [armory](http://armory3d.org/), Mozilla Public License Version 2.0, [github](https://github.com/armory3d/armory) ([Python][python], [Haxe][haxe])
+- [Atomic Game Engine](http://atomicgameengine.com/), The MIT License, [github](https://github.com/AtomicGameEngine/AtomicGameEngine/) (C, [C++][cpp])
 - [Dash](http://dash.circularstudios.com/), The MIT License, [github](https://github.com/Circular-Studios/Dash) ([D][d])
 - [Godot](http://www.godotengine.org/projects/godot-engine), The MIT License, [github](https://github.com/godotengine/godot) ([C++][cpp])
 - [Panda3D](https://www.panda3d.org/), The Modified BSD License, [github](https://github.com/panda3d/panda3d) ([C++][cpp], [Python][python])
