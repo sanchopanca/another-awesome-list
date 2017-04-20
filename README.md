@@ -53,6 +53,7 @@ This is an attempt to organize my github stars and other bookmarks
 - [Wings 3D](http://www.wings3d.com/), BSD Licence, [github](https://github.com/dgud/wings) ([Erlang][erlang])
 
 ## Video Editors
+- [OpenShot Video Editor](http://www.openshot.org/), GNU GPL v3, [launchpad](https://launchpad.net/openshot) ([Python][python])
 - [Shotcut](https://www.shotcut.org/), GNU GPL v3, [github](https://github.com/mltframework/shotcut) ([C++][cpp])
 
 ## Web Frameworks
