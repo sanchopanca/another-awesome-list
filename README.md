@@ -52,6 +52,9 @@ This is an attempt to organize my github stars and other bookmarks
 - [MakeHuman](http://www.makehuman.org/), GNU AGPL v3 or later, [bitbucket](https://bitbucket.org/MakeHuman/makehuman/) ([Python][python])
 - [Wings 3D](http://www.wings3d.com/), BSD Licence, [github](https://github.com/dgud/wings) ([Erlang][erlang])
 
+## Video Editors
+- [Shotcut](https://www.shotcut.org/), GNU GPL v3, [github](https://github.com/mltframework/shotcut) ([C++][cpp])
+
 ## Web Frameworks
 - [Blade](http://bladejava.com/), Apache License v2.0, [github](https://github.com/biezhi/blade) ([Java][java])
 - [Vibe.d](http://vibed.org/), The MIT License, [github](https://github.com/rejectedsoftware/vibe.d) ([D][d])
