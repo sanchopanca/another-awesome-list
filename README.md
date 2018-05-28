@@ -49,7 +49,7 @@ This is an attempt to organize my github stars and other bookmarks
 
 ## 3D Graphics Software
 - [Blender](https://www.blender.org/), GNU GPL v2 or later, [git repository](https://git.blender.org/gitweb/gitweb.cgi/blender.git) (C, [C++][cpp], [Python][python])
-- [MakeHuman](http://www.makehuman.org/), GNU AGPL v3 or later, [bitbucket](https://bitbucket.org/MakeHuman/makehuman/) ([Python][python])
+- [MakeHuman](http://www.makehumancommunity.org/), GNU AGPL v3 or later, [bitbucket](https://bitbucket.org/MakeHuman/makehuman/) ([Python][python])
 - [Wings 3D](http://www.wings3d.com/), BSD Licence, [github](https://github.com/dgud/wings) ([Erlang][erlang])
 
 ## Video Editors
